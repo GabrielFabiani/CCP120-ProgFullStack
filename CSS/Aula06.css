@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(171, 199, 223);
+}
+.inicio{
+    display: flex;
+    justify-content: center;
+}
+.txt{
+    display: flex;
+    justify-content: center;
+}
+
+#canvas1{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(161, 157, 151);
+}
