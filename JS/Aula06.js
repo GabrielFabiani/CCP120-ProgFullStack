@@ -19,7 +19,7 @@ class Retangulo {
 }
 
 
-let Beemovie = new Retangulo('../img/the-bee-movie-bee-movie.png', 150, 150, 50, 50);
+let Beemovie = new Retangulo('../img/the-bee-movie-bee-movie.png', 125, 125, 50, 50);
 
 function animacao() {
     ctx1.clearRect(0, 0, canvas1.width, canvas1.height);

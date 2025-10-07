@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(171, 199, 223);
+     background-image: url('../img/fundo.jpg');
+     background-size:cover
 }
 .inicio{
     display: flex;
@@ -13,5 +14,5 @@ body{
 #canvas1{
     display: flex;
     justify-content: center;
-    background-color: rgb(161, 157, 151);
+    background-color: transparent;
 }
